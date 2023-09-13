@@ -9,7 +9,7 @@ class Pizza {
         this.price = price;
     }
 
-    public String getFlavour() {
+    public String getFlavour()  {
         return flavour;
     }
 
