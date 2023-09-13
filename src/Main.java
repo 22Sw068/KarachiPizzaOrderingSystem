@@ -121,8 +121,8 @@ class PizzaOrders {
 
 public class Main {
     public static void main(String[] args) {
-        Pizza pizza1 = new Pizza("i:Pepperoni Pizza   ",  (short) 1150);
-        Pizza pizza2 = new Pizza("ii:Hawaiian Pizza   ",   (short) 1250);
+        Pizza pizza1 = new Pizza("i:Pepperoni Pizza",  (short) 1150);
+        Pizza pizza2 = new Pizza("ii:Hawaiian Pizza",   (short) 1250);
         Pizza pizza3 = new Pizza("iii:Margherita Pizza", (short) 1360);
         Pizza pizza4 = new Pizza("iv:Capricciosa Pizza",(short) 1460);
 
